@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59ab7ca9ded00cb2",
+        "id": "9cafad06674e683d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e841187c79974bf",
+            "id": "71b39a327cf66f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Windows Hello Style Authentication for Linux.md",
+                "file": "Software/Install EMQX on Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software/Windows Hello Style Authentication for Linux.md",
+                "file": "Software/Install EMQX on Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software/Windows Hello Style Authentication for Linux.md",
+                "file": "Software/Install EMQX on Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Windows Hello Style Authentication for Linux.md"
+                "file": "Software/Install EMQX on Ubuntu.md"
               }
             }
           }
@@ -146,47 +146,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "floating": {
-    "id": "aab2564ab3ac8ffd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "784d4817528633e6",
-        "type": "window",
-        "children": [
-          {
-            "id": "5e42049aa9102b8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ebffe5acbd3812c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Software/Connect to Tailscale(Headscale).md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 709,
-        "y": 472,
-        "width": 2216,
-        "height": 1366,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3e841187c79974bf",
+  "active": "71b39a327cf66f36",
   "lastOpenFiles": [
-    "Software/Connect to Tailscale(Headscale).md",
+    "Software/Install EMQX on Ubuntu.md",
     "Software/Windows Hello Style Authentication for Linux.md",
+    "Software/Connect to Tailscale(Headscale).md",
     "Software",
     "Hardware/Weather Station.md",
     "Pasted image 20240703012818.png",
